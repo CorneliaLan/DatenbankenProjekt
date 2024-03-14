@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oWclc+4YixHBr4oqZObfA1qa/pfT+hjBm1c1Y1iR4v7T3Ghs94vFOWxuYXDxPdQBgzO3hCSIN96y7uqm9n5Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corne\\source\\repos\\DatenbankenProjekt\\ProTrack\\ProTrack.Server\\ProTrack.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corne\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.3\\microsoft.aspnetcore.spaproxy.8.0.3.nupkg.sha512",
+    "C:\\Users\\corne\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\corne\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\corne\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\corne\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\corne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\corne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

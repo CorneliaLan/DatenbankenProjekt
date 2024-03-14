@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProTrack.Server", "ProTrack.Server\ProTrack.Server.csproj", "{72403CF8-3E07-41F5-9FBE-5C611F5BE484}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "protrack.client", "protrack.client\protrack.client.esproj", "{B43F3A10-1C61-43B2-8B7C-6FBBE8590523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72403CF8-3E07-41F5-9FBE-5C611F5BE484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72403CF8-3E07-41F5-9FBE-5C611F5BE484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72403CF8-3E07-41F5-9FBE-5C611F5BE484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72403CF8-3E07-41F5-9FBE-5C611F5BE484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43F3A10-1C61-43B2-8B7C-6FBBE8590523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43F3A10-1C61-43B2-8B7C-6FBBE8590523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43F3A10-1C61-43B2-8B7C-6FBBE8590523}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B43F3A10-1C61-43B2-8B7C-6FBBE8590523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43F3A10-1C61-43B2-8B7C-6FBBE8590523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43F3A10-1C61-43B2-8B7C-6FBBE8590523}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC6143B-2EE2-4975-837E-51FA37610ED4}
+	EndGlobalSection
+EndGlobal
